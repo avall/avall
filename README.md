@@ -2,17 +2,17 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-Hi, I'm Carlos Ferrao a passionate self-taught **Software Development Engineer in Test (SDET)** from Barcelona. My passion for keep growing lies with become a referent on quality of software. I take great care in the experience, architecture, and code quality in all of projects where I work.
+Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distributed systems. I am passionate about event driven solutions using DDD (Domain Driven Design) and Kafka message broker. Excited learning everyday new technologies.
 
-[![Linkedin Badge](https://img.shields.io/badge/-ferraobox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-ferrao-a09469b7/)](https://www.linkedin.com/in/carlos-ferrao-a09469b7/)
-[![Gmail Badge](https://img.shields.io/badge/-ferraobox@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferraobox@gmail.com)](mailto:ferraobox@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-avall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-vall-09a2b25/)](https://www.linkedin.com/in/alex-vall-09a2b25/)
+[![Gmail Badge](https://img.shields.io/badge/-alex.vall.mainou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.vall.mainou@gmail.com)](mailto:alex.vall.mainou@gmail.com)
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?logo=kotlin&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Technologies
 
@@ -23,6 +23,7 @@ Hi, I'm Carlos Ferrao a passionate self-taught **Software Development Engineer i
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
+![Kafka](https://img.shields.io/badge/-kafka-000?&logo=kafka)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 ![MacOs](https://img.shields.io/badge/-MacOs-000?&logo=MacOs)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
