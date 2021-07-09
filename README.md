@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a software engineer from Barcelona. Excited with distributed systems. I am passionate about event driven solutions using DDD (Domain Driven Design).</br>
-Learning everyday new technologies.
+Excited learning everyday new technologies.
