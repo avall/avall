@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-.- I am a software engineer from Barcelona. Excited with distributed systems. I am passionate about event driven solutions using DDD (Domain Driven Design).</br>
-.- Learning everyday new technologies.
+I am a software engineer from Barcelona. Excited with distributed systems. I am passionate about event driven solutions using DDD (Domain Driven Design).</br>
+Learning everyday new technologies.
