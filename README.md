@@ -32,5 +32,5 @@ Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distr
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=PostgreSQL&logoColor=00ffff)
 ![Jest](https://img.shields.io/badge/-jest-000?&logo=jest)
 ![eslint](https://img.shields.io/badge/-eslint-000?&logo=eslint)
-![GitHubActions](https://img.shields.io/badge/-GitHubActions-000?&logo=github-actions)
+![GitHubActions](https://img.shields.io/badge/-GitHubActions-000?&logo=github-actions&logoColor=00ffff)
 ![CodeClimate](https://img.shields.io/badge/-CodeClimate-000?&logo=code-climate)
