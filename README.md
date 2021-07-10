@@ -8,7 +8,6 @@ Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distr
 [![Gmail Badge](https://img.shields.io/badge/-alex.vall.mainou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.vall.mainou@gmail.com)](mailto:alex.vall.mainou@gmail.com)
 
 ### Languages
-
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?logo=kotlin&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
