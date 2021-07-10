@@ -7,13 +7,11 @@ Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distr
 [![Linkedin Badge](https://img.shields.io/badge/-avall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-vall-09a2b25/)](https://www.linkedin.com/in/alex-vall-09a2b25/)
 [![Gmail Badge](https://img.shields.io/badge/-alex.vall.mainou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.vall.mainou@gmail.com)](mailto:alex.vall.mainou@gmail.com)
 
-#### Languages
+#### Technologies
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?logo=kotlin&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
-#### Infra
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
