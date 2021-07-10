@@ -28,7 +28,7 @@ Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distr
 ![MacOs](https://img.shields.io/badge/-MacOs-000?&logo=MacOs)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=00ffff)
 ![Jest](https://img.shields.io/badge/-jest-000?&logo=jest)
 ![eslint](https://img.shields.io/badge/-eslint-000?&logo=eslint)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000?&logo=github-actions)
