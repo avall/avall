@@ -42,7 +42,7 @@ Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distr
 ### Pipeline
 
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000?&logo=github-actions&logoColor=00ffff)
-![maven](https://img.shields.io/badge/-maven-000?&logo=mvn)
+![maven](https://img.shields.io/badge/-maven-000?&logo=apachemvn)
 ![gradle](https://img.shields.io/badge/-gradle-000?&logo=gradle)
 ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
 
