@@ -23,7 +23,7 @@ Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distr
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
-![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Kafka)
+![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 ![MacOs](https://img.shields.io/badge/-MacOs-000?&logo=MacOs)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
