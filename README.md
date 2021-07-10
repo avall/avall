@@ -14,38 +14,24 @@ Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) </br>
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)</br>
-
-#### Server / Frameworks</br>
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Node](https://img.shields.io/badge/-node-000?&logo=nodedotjs&logoColor=00ffff)
 ![Jest](https://img.shields.io/badge/-jest-000?&logo=jest)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![eslint](https://img.shields.io/badge/-eslint-000?&logo=eslint)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)</br>
-
-#### Database</br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=00ffff)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=PostgreSQL&logoColor=00ffff)</br>
-
-#### Message Broker</br>
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)</br>
-
-#### Pipeline</br>
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000?&logo=github-actions&logoColor=00ffff)
 ![maven](https://img.shields.io/badge/-maven-000?&logo=apachemaven)
 ![gradle](https://img.shields.io/badge/-gradle-000?&logo=gradle)
 ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)</br>
-
-#### Code Quality</br>
 ![CodeClimate](https://img.shields.io/badge/-CodeClimate-000?&logo=code-climate)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-000?&logo=SonarQube)</br>
-
-#### Mobile</br>
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 ![IOS](https://img.shields.io/badge/-IOS-000?&logo=IOS)</br>
-
-#### OS</br>
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![MacOs](https://img.shields.io/badge/-MacOs-000?&logo=MacOs)</br>
