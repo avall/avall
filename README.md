@@ -19,7 +19,7 @@ Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distr
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node](https://img.shields.io/badge/-NodeJs-000?&logo=node-dot-js)
+![Node](https://img.shields.io/badge/-node-000?&logo=nodedotjs&logoColor=00ffff)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
