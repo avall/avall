@@ -14,23 +14,49 @@ Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distr
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-### Technologies
+### Infra
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node](https://img.shields.io/badge/-node-000?&logo=nodedotjs&logoColor=00ffff)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
-![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-![MacOs](https://img.shields.io/badge/-MacOs-000?&logo=MacOs)
+
+### Server / Frameworks
+
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Node](https://img.shields.io/badge/-node-000?&logo=nodedotjs&logoColor=00ffff)
+![Jest](https://img.shields.io/badge/-jest-000?&logo=jest)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![eslint](https://img.shields.io/badge/-eslint-000?&logo=eslint)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+
+### Database
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=00ffff)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=PostgreSQL&logoColor=00ffff)
-![Jest](https://img.shields.io/badge/-jest-000?&logo=jest)
-![eslint](https://img.shields.io/badge/-eslint-000?&logo=eslint)
+
+### Message Broker
+
+![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
+
+### Pipeline
+
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000?&logo=github-actions&logoColor=00ffff)
+![maven](https://img.shields.io/badge/-maven-000?&logo=maven)
+![gradle](https://img.shields.io/badge/-gradle-000?&logo=gradle)
+![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
+
+### Code Quality
+
 ![CodeClimate](https://img.shields.io/badge/-CodeClimate-000?&logo=code-climate)
+![SonarQube](https://img.shields.io/badge/-SonarQube-000?&logo=SonarQube)
+
+### Mobile
+
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+![IOS](https://img.shields.io/badge/-IOS-000?&logo=IOS)
+
+### OS
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![MacOs](https://img.shields.io/badge/-MacOs-000?&logo=MacOs)
