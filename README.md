@@ -12,7 +12,6 @@ Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distr
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?logo=kotlin&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
