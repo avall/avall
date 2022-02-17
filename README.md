@@ -35,3 +35,6 @@ Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distr
 ![IOS](https://img.shields.io/badge/-IOS-000?&logo=IOS)</br>
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![MacOs](https://img.shields.io/badge/-MacOs-000?&logo=MacOs)</br>
+
+![](https://github.com/avall/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/avall/github-stats/blob/master/generated/languages.svg)
