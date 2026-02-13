@@ -4,6 +4,7 @@
 
 Hi, i am a <strong>software engineer</strong> from Barcelona. Excited with distributed systems. I am passionate about event driven solutions using DDD (Domain Driven Design) and Kafka message broker. Excited learning everyday new technologies.
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=avall)
 [![Linkedin Badge](https://img.shields.io/badge/-avall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-vall-09a2b25/)](https://www.linkedin.com/in/alex-vall-09a2b25/)
 [![Gmail Badge](https://img.shields.io/badge/-alex.vall.mainou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.vall.mainou@gmail.com)](mailto:alex.vall.mainou@gmail.com)
 
